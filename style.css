@@ -52,4 +52,29 @@ header .btn{
  }                             
 .client-title span{
     color: #e75f51;
+}    
+
+.icon i{
+    color: #e77c40;
+}
+.card .client-img{
+    width: 147px;
+    height: 147px;
+    border-radius: 100%;
+}
+
+
+
+                            /*************************************
+                                    Clients Questions Blog
+                            *************************************/
+.question-title h1 {
+    font-size: 45px;
+    font-weight: 600;
 }                            
+.question-title span{
+    color: #e75f51;
+}
+.accordion-item button{
+    font-weight: 600;
+}
