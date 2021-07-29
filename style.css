@@ -39,7 +39,9 @@ header .btn{
      color: #e75f51;
      font-weight: 700;
  }                         
-
+.container .first-img, .third-img{
+    filter: grayscale(100%);
+}
 
                             /****************************
                                     Clients blog
