@@ -3,9 +3,53 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
+
+
+                        /****************************************
+                                       Header area 
+                        ****************************************/
 header{
     background-color: #264653;
 }
 header .btn{
     background-color: #e75f51;
 }
+
+.header-content p{
+    color: #cfd2d3;
+}
+
+.header-content h1{
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 72px;
+}
+
+/************************************************* Main section ************************************************/
+                            /*************************
+                                   Feature Area  
+                            *************************/
+ .feature-title h1{
+    font-size: 45px;
+    font-weight: 600;
+    
+ }  
+ 
+ .feature-title p{
+     color: #e75f51;
+     font-weight: 700;
+ }                         
+
+
+                            /****************************
+                                    Clients blog
+                            **************************/
+
+.client-title h1{
+    font-size: 45px;
+    font-weight: 600;
+                                
+ }                             
+.client-title span{
+    color: #e75f51;
+}                            
