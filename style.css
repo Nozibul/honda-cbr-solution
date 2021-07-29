@@ -78,3 +78,44 @@ header .btn{
 .accordion-item button{
     font-weight: 600;
 }
+
+
+                            /***************************************
+                                        Wonderful bikes 
+                             ***************************************/
+.bike-title h1{
+    font-size: 45px;
+    font-weight: 600;
+}      
+
+.bike-title span{
+    color: #e75f51;
+}
+.carousel-inner img{
+    height: 520px;
+}
+
+
+                                /**********************************
+                                        Sing in area
+                                ********************************/
+
+.facility h1{
+    font-size: 45px;
+    font-weight: 600;
+}
+.facility span{
+    color: #e75f51;
+}
+.bg-color{
+    background-color: rgb(221, 221, 221);
+}
+
+
+                        /**************************************
+                                Footer Area 
+                        **************************************/
+.footer-area{
+    background-color:#264653 ;
+    height: 100px;
+}
